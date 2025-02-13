@@ -1,3 +1,3 @@
 Hello world
 
-edit on github webpage
+edit on GitHub webpage
